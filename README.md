@@ -44,7 +44,7 @@ This repo expects (and will create) the following top-level directories:
 ### 1) Clone
 
 ```bash
-git clone [<this-repo>](https://github.com/cfarkas/lferri_dsm14647_pipeline.git)
+git clone https://github.com/cfarkas/lferri_dsm14647_pipeline.git
 cd lferri_dsm14647_pipeline
 ```
 
