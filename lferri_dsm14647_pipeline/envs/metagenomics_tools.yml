@@ -1,0 +1,14 @@
+name: metagenomics_tools
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python
+  - samtools
+  - minimap2
+  - seqkit
+  - bedtools
+  - liftoff
+  - gffread
+  - pypolca

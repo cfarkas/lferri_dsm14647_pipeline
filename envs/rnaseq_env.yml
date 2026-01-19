@@ -1,0 +1,14 @@
+name: rnaseq_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base
+  - r-tidyverse
+  - bioconductor-deseq2
+  - bioconductor-apeglm
+  - bioconductor-complexheatmap
+  - r-circlize
+  - r-rcolorbrewer
+  - r-cluster

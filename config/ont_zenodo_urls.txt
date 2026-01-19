@@ -1,0 +1,3 @@
+# One URL per line (direct download links preferred).
+# Example:
+# https://zenodo.org/records/<RECORD_ID>/files/sample1.fastq.gz?download=1

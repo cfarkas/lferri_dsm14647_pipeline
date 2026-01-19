@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite it as below."
+title: "Leptospirillum ferriphilum DSM 14647 genome polishing + RNA-seq DE pipeline"
+type: software
+license: MIT
+authors:
+  - family-names: Norambuena
+    given-names: Javiera
+  - family-names: "Contributors"
+    given-names: "(see git history)"
+repository-code: "https://github.com/<org>/<repo>"
+date-released: "2026-01-19"
+keywords:
+  - genome assembly
+  - polishing
+  - bakta
+  - rnaseq
+  - deseq2
+  - complexheatmap
+  - liftoff

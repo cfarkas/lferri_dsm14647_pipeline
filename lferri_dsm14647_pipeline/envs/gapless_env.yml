@@ -1,0 +1,13 @@
+name: gapless_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - gapless
+  - minimap2
+  - racon
+  - seqtk
+  - pandas<2
+  - numpy<2
