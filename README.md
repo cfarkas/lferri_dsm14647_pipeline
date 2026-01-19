@@ -2,7 +2,7 @@
 
 This repository contains a **reproducible (scripted) workflow** to:
 
-1. Fetch the **original NCBI reference** (GCF_000755505.1).
+1. Fetch the **original NCBI reference** for Leptospirillum ferriphilum (GCF_000755505.1).
 2. Build a **hybrid long-read assembly** (ONT + PacBio CLR) with **Canu**.
 3. **Polish** the assembly with Illumina PE using **PyPolca / POLCA**.
 4. Annotate the polished genome with **Bakta**.
@@ -44,7 +44,7 @@ This repo expects (and will create) the following top-level directories:
 ### 1) Clone
 
 ```bash
-git clone <this-repo>
+git clone [<this-repo>](https://github.com/cfarkas/lferri_dsm14647_pipeline.git)
 cd lferri_dsm14647_pipeline
 ```
 
